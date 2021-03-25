@@ -8,3 +8,4 @@ app.listen(port);
 console.log(`App running on http://localhost:${port}`);
 git add app.js
 git commit -m 'change message"
+git push
